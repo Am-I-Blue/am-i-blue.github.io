@@ -171,6 +171,16 @@ h4 {
 	padding-left: 12px;
 }
 
+ul.list {
+    list-style-type: square;
+    padding-left: 20px;
+    display: block; /* important */
+}
+
+.list li {
+    display: list-item; /* restore default */
+}
+
 /* prevents overflow on smaller screens */
 img { max-width: 100%; }
 pre { overflow-x: auto; }
