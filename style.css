@@ -22,8 +22,8 @@
 			--bg: rgb(0,60,60,.8);
 			--gradientBottom: rgb(0, 50, 60);
 			--gradientTop: darkslategrey;
-			a:link { color: lightblue; } 
 		}
+		a:link { color: lightblue; } 
 		header {
 			background: url('pictures/GDWP-905-Day-HD-No-Logo.webp');
 		}
