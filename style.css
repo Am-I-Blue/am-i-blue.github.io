@@ -171,6 +171,9 @@ h4 {
 	padding-left: 12px;
 }
 
+ul {
+	list-style-type: square;
+}
 
 /* prevents overflow on smaller screens */
 img { max-width: 100%; }
