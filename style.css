@@ -200,7 +200,7 @@ a {
 }
 
 a[href^='http'] { text-decoration-style: solid; }
-a:visited {	color: teal; }
+a:visited {	color: var(--accent); }
 
 a:hover, a:focus {
 	background: white;

@@ -9,3 +9,7 @@ section.half {
 section.half a {
   align-self: flex-end;
 }
+
+.entry-nav {
+  padding-top: 1rem;
+}
