@@ -99,7 +99,7 @@ nav {
 	background: linear-gradient(var(--gradientTop),var(--gradientBottom));
 }
 nav div {
-	text-align:justify;
+	text-align:center;
 	font-size: 1.25rem;
 	margin: 5px 5px 10px 5px;
 }
@@ -173,6 +173,11 @@ h4 {
 
 ul {
 	list-style-type: square;
+}
+/* for the changelog */
+section.small ul {
+  margin: 0;
+  padding-left: 1em; 
 }
 
 /* prevents overflow on smaller screens */

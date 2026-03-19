@@ -1,2 +1,11 @@
 .small { flex: 1 1 9%; }  
 .half  { flex: 1 1 69%; } 
+
+section.half {
+  display: flex;
+  flex-direction: column;
+}
+
+section.half a {
+  align-self: flex-end;
+}
